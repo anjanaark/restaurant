@@ -86,7 +86,7 @@
             <div class="swiper-slide slide">
                 <div class="content">
                     <span>our special dish</span>
-                    <h3>hot pizza</h3>
+                    <h3>hot pizza taste</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit natus dolor cumque?</p>
                     <a href="#" class="btn">order now</a>
                 </div>
